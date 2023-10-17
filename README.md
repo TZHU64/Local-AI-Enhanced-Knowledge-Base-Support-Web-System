@@ -8,7 +8,7 @@
 
 ## Models configuration:
 
-Download Embedding model and LLM model.
+Download your embedding model and LLM model.
 
 Modify `configs/model_configs.py`.
 
